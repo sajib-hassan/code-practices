@@ -1,1 +1,1 @@
-# code-practises
+# code-practices
